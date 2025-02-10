@@ -1,0 +1,28 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+lowest                                                                            0x0260       2
+leftDigits                                                                        0x0262       8
+rightDigits                                                                       0x026A       8
+divisor                                                                           0x0272       2
+digitIndex                                                                        0x0274       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+left_number                                                                       R4,R5        2
+right_number                                                                      R6,R7        2
+index                                                                             R8,R9        2
+toggle                                                                            R10,R11      2
+highest                                                                           R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer1_compa_isr                                                                  0x00068     24
+timer0_comp_isr                                                                   0x00080     21
+main                                                                              0x00095    215
