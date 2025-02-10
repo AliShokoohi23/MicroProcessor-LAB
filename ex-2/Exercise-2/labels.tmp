@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>D:\1402-1403-02\GROUP9\Exercise-2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>11</LINE></START>
+  <CONVERT><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>54</LINE></CONVERT>
+  <DELAY><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>46</LINE></DELAY>
+  <D1><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>47</LINE></D1>
+  <D2><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>48</LINE></D2>
+  <C1><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>59</LINE></C1>
+  <C2><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>63</LINE></C2>
+  <C3><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>67</LINE></C3>
+  <C4><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>71</LINE></C4>
+  <C5><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>75</LINE></C5>
+  <C6><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>79</LINE></C6>
+  <C7><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>83</LINE></C7>
+  <C8><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>87</LINE></C8>
+  <C9><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>91</LINE></C9>
+  <C10><FILE>D:\1402-1403-02\GROUP9\Exercise-2\Exercise-2.asm</FILE><LINE>94</LINE></C10>
+ </LABELS>
+</ASSEMBLER_INFO>

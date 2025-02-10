@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>22</LINE></START>
+  <DELAY2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>133</LINE></DELAY2>
+  <B><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>28</LINE></B>
+  <CHSE><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>78</LINE></CHSE>
+  <D0><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>34</LINE></D0>
+  <D1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>41</LINE></D1>
+  <D2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>44</LINE></D2>
+  <D3><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>51</LINE></D3>
+  <CONVERT><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>142</LINE></CONVERT>
+  <DELAY><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>119</LINE></DELAY>
+  <CH1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>84</LINE></CH1>
+  <CH2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>87</LINE></CH2>
+  <Decrement><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>102</LINE></Decrement>
+  <CH3><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>89</LINE></CH3>
+  <Increment><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>91</LINE></Increment>
+  <I1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>100</LINE></I1>
+  <De1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>107</LINE></De1>
+  <De3><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>115</LINE></De3>
+  <De2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>113</LINE></De2>
+  <L1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>121</LINE></L1>
+  <L2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>123</LINE></L2>
+  <L3><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>125</LINE></L3>
+  <L2_1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>138</LINE></L2_1>
+  <L2_2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>140</LINE></L2_2>
+  <C1><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>147</LINE></C1>
+  <C2><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>151</LINE></C2>
+  <C3><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>155</LINE></C3>
+  <C4><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>159</LINE></C4>
+  <C5><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>163</LINE></C5>
+  <C6><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>167</LINE></C6>
+  <C7><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>171</LINE></C7>
+  <C8><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>175</LINE></C8>
+  <C9><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>179</LINE></C9>
+  <C10><FILE>E:\University\Term 6\MicroProcessor lab\ex-2\ex-2 (400521477)\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>182</LINE></C10>
+ </LABELS>
+</ASSEMBLER_INFO>
