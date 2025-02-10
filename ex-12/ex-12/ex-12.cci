@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:58BCA675
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\glcd.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr\inc\font5x7.h"
+NODE:I LEVEL:0 LINE:32 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:35 "ball_x -> R4,R5"
+NODE:V LEVEL:0 LINE:36 "ball_y -> R6,R7"
+NODE:V LEVEL:0 LINE:37 "speed_x -> R8,R9"
+NODE:V LEVEL:0 LINE:38 "speed_y -> R10,R11"
+NODE:F LEVEL:0 LINE:39 "main(void)"
